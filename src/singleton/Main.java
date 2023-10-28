@@ -7,7 +7,6 @@ public class Main {
         for (; ; ) {
             i++;
             Singleton singleton = Singleton.getSingleton();
-            //NotSingleton singleton = new NotSingleton();
             if (i == 10) {
                 break;
             }
