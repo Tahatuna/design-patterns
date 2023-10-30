@@ -1,7 +1,7 @@
 package singleton;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         int i = 0;
         for (; ; ) {
